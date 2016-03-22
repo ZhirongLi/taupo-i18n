@@ -56,7 +56,7 @@
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
-    "message": "EXPIRATION DATE",
+    "message": "有效期",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
