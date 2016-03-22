@@ -416,11 +416,11 @@
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
-    "message": "and",
+    "message": "和",
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": "are registered trademarks of the U.S. Department of Health & Human Services.",
+    "message": "是美国卫生与公众服务部(HHS)的注册商标。",
     "context": "The second half of the trademark sentence."
   }
 }
