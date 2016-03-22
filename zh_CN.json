@@ -52,7 +52,7 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR®，ReUnite®，和TriagePic®是美国卫生与公共服务部的注册商标。",
+    "message": "PEOPLE LOCATOR®，ReUnite®，和 TriagePic® 是美国卫生与公众服务部(HHS)的注册商标。",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -60,7 +60,7 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
-    "message": "Error: invalid username or password",
+    "message": "错误用户名或密码",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
