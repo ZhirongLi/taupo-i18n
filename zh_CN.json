@@ -12,7 +12,7 @@
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Logout",
+    "message": "退出",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
@@ -20,7 +20,7 @@
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkAbout": {
-    "message": "About",
+    "message": "关于",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
