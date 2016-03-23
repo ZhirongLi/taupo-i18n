@@ -120,7 +120,7 @@
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "Error: cannot follow a record that does not exist or you do not have privilege to access",
+    "message": "数据不存在，或者是你的权限不够无法查询",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
