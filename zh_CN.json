@@ -112,7 +112,7 @@
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "plusError23": {
-    "message": ""密码中至少需要一个数字(0-9)",
+    "message": "密码中至少需要一个数字(0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
