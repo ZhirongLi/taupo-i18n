@@ -72,11 +72,11 @@
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "Error: the username you provided is not available",
+    "message": "输入的用户名已被占用",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
-    "message": "Error: invalid email address",
+    "message": "输入的邮件地址无效",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
