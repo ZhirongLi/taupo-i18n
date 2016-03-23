@@ -104,19 +104,19 @@
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
-    "message": "密码中之少需要一个大写字母(A-Z)",
+    "message": "密码中至少需要一个大写字母(A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "plusError22": {
-    "message": "Error: password must contain at least one lowercase letter (a-z)",
+    "message": "密码中至少需要一个小写字母(a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "plusError23": {
-    "message": "Error: password must contain at least one number (0-9)",
+    "message": ""密码中至少需要一个数字(0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "Network error. Please check your connection and try again.",
+    "message": "网络错误，请检查你的线路再试",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
