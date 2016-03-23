@@ -68,7 +68,7 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "Error: a user already exists with provided the provided email address",
+    "message": "所输入的邮箱地址已被使用",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
