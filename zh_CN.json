@@ -96,7 +96,7 @@
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "Error: passwords do not match",
+    "message": "输入错误密码不符Error: passwords do not match",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
