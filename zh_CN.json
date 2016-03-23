@@ -84,7 +84,7 @@
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
-    "message": "Error: the email address provided is not associated with any user account",
+    "message": "所提供的邮件地址与任何用户无关",
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
