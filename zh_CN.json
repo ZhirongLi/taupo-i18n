@@ -88,7 +88,7 @@
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "Error: incorrect human validation test result, please reload the page",
+    "message": "验证结果错误，请重新输入",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
