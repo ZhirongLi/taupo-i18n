@@ -92,7 +92,7 @@
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
-    "message": "Error: reCaptcha session expired, please reload the page",
+    "message": "验证码失效，请刷新页面",
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
