@@ -80,7 +80,7 @@
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "密码必须是8-16字符，其中至少含有一个大写字母，一个小写字母，一个数字",
+    "message": "密码必须是8至16个字符，其中至少含有一个大写字母，一个小写字母，一个数字",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
@@ -100,7 +100,7 @@
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
-    "message": "Error: password must be 8-16 characters long",
+    "message": "密码必须是8至16个字符",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
