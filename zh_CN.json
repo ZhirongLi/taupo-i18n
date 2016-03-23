@@ -80,7 +80,7 @@
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "密码的字长Error: password must be 8-16 characters in length, must have at least one uppercase, one lowercase, and one numeric character",
+    "message": "密码字长限于8-16字符，其中至少含有一个大写字母，一个小写字母，一个数字",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
