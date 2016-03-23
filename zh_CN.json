@@ -104,7 +104,7 @@
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
-    "message": "Error: password must contain at least one uppercase letter (A-Z)",
+    "message": "密码之少需要含有一个大写字母(A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "plusError22": {
