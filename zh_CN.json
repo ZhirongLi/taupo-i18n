@@ -64,7 +64,7 @@
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "登录多次失败，账户暂时关闭，稍后再试",
+    "message": "登录多次失败，账户暂时关闭，请稍后再试",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
