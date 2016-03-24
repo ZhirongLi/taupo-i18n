@@ -176,7 +176,7 @@
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "我们已经给你发出电子邮件，介绍如何重置密码。 You have been emailed instructions how to reset your password.",
+    "message": "我们已经给你发出电子邮件，介绍如何重置密码。",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
@@ -188,7 +188,7 @@
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
-    "message": "请输入你的电子邮箱地址， 我们将给你送邮件，介绍如何重新设置密码。Enter your email address and we will send you instructions how to reset your password.",
+    "message": "请输入你的电子邮箱地址， 我们将给你发送邮件，介绍如何重新设置密码。",
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
@@ -212,11 +212,11 @@
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "输入的密码中至少要有一个数字， 一个小写字母， 一个大写字母，密码的长度范围8-16。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
-    "message": "Notice",
+    "message": "请注意",
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
