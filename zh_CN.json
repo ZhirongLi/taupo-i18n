@@ -152,15 +152,15 @@
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
-    "message": "You are now registered and logged in.",
+    "message": "登录成功",
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
-    "message": "Registering...",
+    "message": "正在登录中...",
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
-    "message": "Password successfully changed.",
+    "message": "密码更改成功.",
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
