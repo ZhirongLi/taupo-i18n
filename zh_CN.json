@@ -132,15 +132,15 @@
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "An unknown error has occurred.",
+    "message": "出现未知错误",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "Error getting subscription information. Please reload the page.",
+    "message": "获取订阅信息出错. 请刷新页面.",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "There was an error while unsubscribing.",
+    "message": "而退订时出错.",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
