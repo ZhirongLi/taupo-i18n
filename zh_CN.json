@@ -132,23 +132,23 @@
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "出现未知错误",
+    "message": "见此提示是因为出现错误，原因未知",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "获取订阅信息出错. 请刷新页面.",
+    "message": "获取订阅信息时出错， 请刷新页面.",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "而退订时出错.",
+    "message": "退出提示时发生错误",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
-    "message": "Logged in.",
+    "message": "登录",
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
-    "message": "Login successful, to access privileged events or modules please reload the page.",
+    "message": "登录成功， Login successful, to access privileged events or modules please reload the page.",
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
