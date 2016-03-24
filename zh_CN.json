@@ -116,7 +116,7 @@
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "网络错误，请检查你的线路再试",
+    "message": "网络出错，请检查你的线路再试",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
@@ -164,7 +164,7 @@
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
-    "message": "Record unfollowed.",
+    "message": "背离数据？Record unfollowed.",
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
@@ -176,23 +176,23 @@
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "You have been emailed instructions how to reset your password.",
+    "message": "我们已经给你发出电子邮件，介绍如何重置密码。 You have been emailed instructions how to reset your password.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
-    "message": "Login",
+    "message": "登录",
     "context": "This is the name of the first tab of the user dialog allowing a user to login."
   },
   "pad1register": {
-    "message": "Register",
+    "message": "注册",
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
-    "message": "Enter your email address and we will send you instructions how to reset your password.",
+    "message": "请输入你的电子邮箱地址， 我们将给你送邮件，介绍如何重新设置密码。Enter your email address and we will send you instructions how to reset your password.",
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
-    "message": "Send",
+    "message": "成功送出",
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
