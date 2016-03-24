@@ -168,11 +168,11 @@
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
-    "message": "You are no longer subscribed to recieve notifications.",
+    "message": "你已经退出订阅，不再接受我们的通知。 You are no longer subscribed to recieve notifications.",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "You are now subscribed to recieve notifications.",
+    "message": "你已经成功订阅，接受我们的通知。 You are now subscribed to recieve notifications.",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
@@ -196,7 +196,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "你忘了用户名或密码吗?",
+    "message": "你忘了用户名或者密码了吗?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
