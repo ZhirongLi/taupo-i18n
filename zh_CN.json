@@ -196,15 +196,15 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot username or password ?",
+    "message": "你忘了用户名或密码吗?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
-    "message": "Username",
+    "message": "用户名",
     "context": "This is the placeholder text for the username input."
   },
   "pad1loginPasswordPlaceholder": {
-    "message": "Password",
+    "message": "密码",
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
