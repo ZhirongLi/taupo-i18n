@@ -292,11 +292,11 @@
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "本网站已被禁止显示推送通知，如要使用此项功能你需要更改设置权限。You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "本网站无法显示推送通知，如要使用此项功能，你需要修改设置权限。You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
-    "message": "This site is provided by the United States National Library of Medicine in Bethesda, Maryland. NLM is part of the National Institutes of Health, United States Department of Health and Human Services, and has in its mission the development and coordination of communication technology to improve the delivery of health services. This site is provided for the purpose of studying the utility of such tools in responding to disasters. The underlying technology was developed through the Lost Person Finder project, part of NLM's contribution to the Bethesda Hospitals' Emergency Preparedness Partnership. The partnership received initial federal funding for LPF and other NLM IT projects in 2008. The LPF project is currently supported by the Intramural Research Program of the NIH, through NLM's Lister Hill National Center for Biomedical Communications. Software development is headed by LHNCBC's Communication Engineering Branch, with additional content from LHNCBC's Computer Science Branch and the Disaster Information Management Research Center, part of NLM's Specialized Information Services.",
+    "message": "本网站由位于美国马里兰州贝塞斯达市的美国国家医学图书馆（NLM）提供。？？？United States National Library of Medicine in Bethesda, Maryland. NLM is part of the National Institutes of Health, United States Department of Health and Human Services, and has in its mission the development and coordination of communication technology to improve the delivery of health services. This site is provided for the purpose of studying the utility of such tools in responding to disasters. The underlying technology was developed through the Lost Person Finder project, part of NLM's contribution to the Bethesda Hospitals' Emergency Preparedness Partnership. The partnership received initial federal funding for LPF and other NLM IT projects in 2008. The LPF project is currently supported by the Intramural Research Program of the NIH, through NLM's Lister Hill National Center for Biomedical Communications. Software development is headed by LHNCBC's Communication Engineering Branch, with additional content from LHNCBC's Computer Science Branch and the Disaster Information Management Research Center, part of NLM's Specialized Information Services.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
@@ -304,15 +304,15 @@
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
-    "message": "Browser Support",
+    "message": "浏览器支持？Browser Support",
     "context": "On the About page, section header title Browser Support."
   },
   "pageAboutHeaderFAQ": {
-    "message": "Datasheets and Frequently Asked Questions",
+    "message": "数据表和常见问题",
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
-    "message": "Frequently Asked Questions",
+    "message": "常见问题？Frequently Asked Questions",
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
