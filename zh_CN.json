@@ -272,7 +272,7 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "你的密码至少要有一个数字， 一个小写之母，一个大写字母，密码的长度为8至16个字符。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "输入的密码至少要有一个数字， 一个小写之母，一个大写字母，密码的长度为8至16个字符。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
@@ -315,7 +315,7 @@
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
-    "message": "常见的问题？Frequently Asked Questions",
+    "message": "常见问题回答？Frequently Asked Questions",
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
@@ -327,7 +327,7 @@
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "site are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented on this Web site. Note that data received by direct submission to",
+    "message": "本网站没有主持，其他参与机构 请注意，数据是由用户直接提交？site are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented on this Web site. Note that data received by direct submission to",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
