@@ -292,7 +292,7 @@
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "本网站无法显示推送通知，如要使用此项功能，你需要修改设置权限。You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "本网页无法显示推送通知，如要此项功能，你需要在设置中更改权限。You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
@@ -300,7 +300,10 @@
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "You must have cookie and JavaScript enabled in your web browser. You must also have one of the two most recent versions of the following web browsers: Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer.",
+    "message": "你必须在浏览器中启用cookie和JavaScript。同时，你必须有？    
+    
+    
+    You must have cookie and JavaScript enabled in your web browser. You must also have one of the two most recent versions of the following web browsers: Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer.",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
@@ -312,15 +315,15 @@
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
-    "message": "常见问题？Frequently Asked Questions",
+    "message": "常见的问题？Frequently Asked Questions",
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
+    "message": "除非另有说明，此包含基于社区内容的数据将由本网站向公众提供，并应许所有访问者进行搜索。？？ Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
-    "message": "Submissions to the",
+    "message": "提交？ Submissions to the",
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
