@@ -136,11 +136,11 @@
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "获取订阅信息时出错， 请刷新页面.",
+    "message": "订阅推送通知时出错， 请刷新页面.",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "退出提示时发生错误",
+    "message": "退订推送通知时发生错误",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
@@ -148,7 +148,7 @@
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
-    "message": "登录成功， Login successful, to access privileged events or modules please reload the page.",
+    "message": "登录成功，如要查询受权限保护的事件或模块，请刷新页面。  Login successful, to access privileged events or modules please reload the page.",
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
@@ -168,15 +168,15 @@
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
-    "message": "你已经退出订阅，从此不会再收到我们的通知。 You are no longer subscribed to recieve notifications.",
+    "message": "你已经退出订阅，从此不会再收到我们的推送通知。 You are no longer subscribed to recieve notifications.",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "订阅成功，现在开始接受我们的通知。 You are now subscribed to recieve notifications.",
+    "message": "订阅成功，从现在开始，你会收到我们的推送通知。 You are now subscribed to recieve notifications.",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "已经给你送出一个电子邮件，介绍如何重置密码。",
+    "message": "我们已经给你送出一封电子邮件，介绍如何重置密码。",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
