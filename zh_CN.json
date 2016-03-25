@@ -319,7 +319,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "除非另有说明，此包含基于社区内容的数据将由本网站向公众提供，并应许所有访问者进行搜索。？？ Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
+    "message": "除非另有说明，此包含基于社区内容的数据将由本网站向公众提供，并允许所有访问者进行搜索。？？ Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -335,7 +335,7 @@
     "context": "End portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText3a": {
-    "message": "For direct submissions to",
+    "message": "直接提交？ For direct submissions to",
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
@@ -343,15 +343,15 @@
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
-    "message": "NLM's Overall Privacy Statement",
+    "message": "NLM隐私声明？ NLM's Overall Privacy Statement",
     "context": "Text for the link to NLM's privacy policy page."
   },
   "the": {
-    "message": "the",
+    "message": "本？the",
     "context": "The word the."
   },
   "backButton": {
-    "message": "BACK",
+    "message": "返回",
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
@@ -359,15 +359,15 @@
     "context": "The second half ot the first bullet point on the Privacy page."
   },
   "pagePrivacyBullet2": {
-    "message": "application",
+    "message": "应用程序？application",
     "context": "The word application as it applies to the ReUnite app."
   },
   "pagePrivacyBullet3": {
-    "message": "other syndicated organizations",
+    "message": "其他联合组织？other syndicated organizations",
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
-    "message": "Find Family and Friends",
+    "message": "寻找家人和朋友",
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
