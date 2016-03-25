@@ -288,11 +288,11 @@
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "Your browser does not support push notifications.",
+    "message": "你的浏览器不支持推送通知。",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "本网站已被禁止显示推送通知，如要使用此项功能你需要更改设置权限。You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
