@@ -88,7 +88,7 @@
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "验证结果错误，请重新输入",
+    "message": "验证结果有错误，请重新输入",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
@@ -120,7 +120,7 @@
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "此数据不存在，或者是因为你的权限而无法查询",
+    "message": "此数据不存在，或是因为你没有权限而无法查询",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
@@ -160,7 +160,7 @@
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
-    "message": "密码更改成功.",
+    "message": "密码修改成功.",
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
@@ -220,7 +220,7 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "我提交本信息完全出于自愿，提交的信息均可作为公众用途。Submission of information is voluntary. All submitted information will be made publicly available.",
+    "message": "本人提交信息完全出于自愿，同意提交的信息为公众使用。Submission of information is voluntary. All submitted information will be made publicly available.",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
@@ -355,7 +355,7 @@
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
-    "message": "report function",
+    "message": "报告功能？report function",
     "context": "The second half ot the first bullet point on the Privacy page."
   },
   "pagePrivacyBullet2": {
@@ -371,15 +371,15 @@
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "Disaster Resources",
+    "message": "灾难救济资源？Disaster Resources",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "Flood Resources",
+    "message": "洪灾救济资源？Flood Resources",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "Tornado Resources",
+    "message": "龙卷风灾难救济资源Tornado Resources",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
@@ -391,7 +391,7 @@
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "Next of Kin National Registry",
+    "message": "近亲国家登记？Next of Kin National Registry",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
@@ -403,11 +403,11 @@
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
-    "message": "Disaster Assistance",
+    "message": "灾难援助？Disaster Assistance",
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
-    "message": "Red Cross Provides Shelters and Food",
+    "message": "红十字会提供庇护所和食物Red Cross Provides Shelters and Food",
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
@@ -415,7 +415,7 @@
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "Follow us on...",
+    "message": "请跟随我们？Follow us on...",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
