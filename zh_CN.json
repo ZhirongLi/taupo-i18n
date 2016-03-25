@@ -208,7 +208,7 @@
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
-    "message": "Email",
+    "message": "邮箱",
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
@@ -220,7 +220,7 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "Submission of information is voluntary. All submitted information will be made publicly available.",
+    "message": "提交信息完全出于自愿，提交的信息均可作为公众用途。Submission of information is voluntary. All submitted information will be made publicly available.",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
