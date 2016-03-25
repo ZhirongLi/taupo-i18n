@@ -132,7 +132,7 @@
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "见此提示是因为出现错误，原因未知",
+    "message": "系统错误，原因未知",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
@@ -168,15 +168,15 @@
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
-    "message": "你已经退出订阅，不再接受我们的通知。 You are no longer subscribed to recieve notifications.",
+    "message": "你已经退出订阅，从此不会再收到我们的通知。 You are no longer subscribed to recieve notifications.",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "你已经成功订阅，接受我们的通知。 You are now subscribed to recieve notifications.",
+    "message": "订阅成功，现在开始接受我们的通知。 You are now subscribed to recieve notifications.",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "我们已经给你发出电子邮件，介绍如何重置密码。",
+    "message": "已经给你送出一个电子邮件，介绍如何重置密码。",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
@@ -212,7 +212,7 @@
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "输入的密码中至少要有一个数字， 一个小写字母， 一个大写字母，密码的长度范围8-16。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "输入的密码中至少要有一个数字， 一个小写字母， 一个大写字母，密码的长度为8至16个字符。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
@@ -220,7 +220,7 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "提交信息完全出于自愿，提交的信息均可作为公众用途。Submission of information is voluntary. All submitted information will be made publicly available.",
+    "message": "我提交本信息完全出于自愿，提交的信息均可作为公众用途。Submission of information is voluntary. All submitted information will be made publicly available.",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
@@ -228,63 +228,63 @@
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
-    "message": "I have read this and agree.",
+    "message": "我已经详读了本同意书。 I have read this and agree.",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following Records",
+    "message": "以下记录? Following Records",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
-    "message": "Settings",
+    "message": "设置",
     "context": "This is the name of the second tab of user preferences that shows user settings."
   },
   "pad3loading": {
-    "message": "Loading",
+    "message": "正在下载",
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "You are not following any records.",
+    "message": "？You are not following any records.",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "Unfollow",
+    "message": "？Unfollow",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "UNSUBSCRIBED",
+    "message": "还未订阅？UNSUBSCRIBED",
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "SUBSCRIBED",
+    "message": "已订阅？SUBSCRIBED",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Subscribe to notifications",
+    "message": "订阅接受推送通知？ Subscribe to notifications",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
-    "message": "From time to time, we may send out notifications to our users when a new event is created.",
+    "message": "从现在起，每当有新的事件产生，我们将给你发送推送通知。From time to time, we may send out notifications to our users when a new event is created.",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3changePasswordButton": {
-    "message": "Change Password",
+    "message": "更改密码",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "你的密码至少要有一个数字， 一个小写之母，一个大写字母，密码的长度为8至16个字符。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
-    "message": "Old Password",
+    "message": "旧密码",
     "context": "This is the placeholder text for the old password input."
   },
   "pad3newPassword1Placeholder": {
-    "message": "New Password",
+    "message": "新密码",
     "context": "This is the placeholder text for the new password input."
   },
   "pad3newPassword2Placeholder": {
-    "message": "New Password Again",
+    "message": "重新输入新密码",
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
