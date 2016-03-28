@@ -52,7 +52,7 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR®，ReUnite®，和 TriagePic® 是美国卫生与公众服务部(HHS)的注册商标。",
+    "message": "PEOPLE LOCATOR®，ReUnite® 和 TriagePic® 是美国卫生与公众服务部(HHS)的注册商标。",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -60,15 +60,15 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
-    "message": "错误用户名或密码",
+    "message": "用户名或密码错误",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "登录多次失败，账户暂时关闭，请稍后再试",
+    "message": "因为登录多次失败，账户暂时关闭，请稍后再试",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "输入的邮箱地址已被使用",
+    "message": "输入的邮箱地址已被占用",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
