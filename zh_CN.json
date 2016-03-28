@@ -220,7 +220,7 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "本人提交信息完全出于自愿，同意提交的信息为公众使用。Submission of information is voluntary. All submitted information will be made publicly available.",
+    "message": "我自愿提交此信息，同意此信息为公众使用。",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
@@ -228,11 +228,11 @@
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
-    "message": "我已经详读了本同意书。",
+    "message": "我已经详细阅读了本同意书。",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "以下记录? Following Records",
+    "message": "以下的记录",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
