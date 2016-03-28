@@ -116,7 +116,7 @@
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "错误：网络出错，请检查你的线路再试",
+    "message": "网络错误：请检查你的线路再试",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
@@ -136,23 +136,23 @@
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "错误：订阅推送通知时出错， 请刷新页面再试.",
+    "message": "错误：订阅推送通知时出错， 请刷新页面再试。",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "错误：退订推送通知时发生错误",
+    "message": "错误：退订推送通知时发生错误。",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
-    "message": "登录",
+    "message": "登录。",
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
-    "message": "登录成功，如要查询受权限保护的事件或模块，请刷新页面。  Login successful, to access privileged events or modules please reload the page.",
+    "message": "登录成功，如要查询受权限保护的事件或模块，请刷新页面。",
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
-    "message": "登录成功",
+    "message": "登录成功。",
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
@@ -160,15 +160,15 @@
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
-    "message": "密码修改成功.",
+    "message": "密码修改成功。",
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
-    "message": "背离数据？Record unfollowed.",
+    "message": "没有跟踪数据。",
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
-    "message": "你已经退出订阅，从此不会再收到我们的推送通知。 You are no longer subscribed to recieve notifications.",
+    "message": "你已经退出订阅，从此不会再收到我们的推送通知。",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
@@ -212,7 +212,7 @@
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "输入的密码中至少要有一个数字， 一个小写字母， 一个大写字母，密码的长度为8至16个字符。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "输入的密码中至少要有一个数字， 一个小写字母， 一个大写字母，密码的长度为8至16个字符。",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
@@ -228,7 +228,7 @@
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
-    "message": "我已经详读了本同意书。 I have read this and agree.",
+    "message": "我已经详读了本同意书。",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
