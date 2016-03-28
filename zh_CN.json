@@ -44,7 +44,7 @@
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
-    "message": "跟进",
+    "message": "点击我们",
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
@@ -60,87 +60,87 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
-    "message": "用户名或密码错误",
+    "message": "错误：用户名或密码有错",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "因为登录多次失败，账户暂时关闭，请稍后再试",
+    "message": "错误：因为登录多次失败，账户暂时关闭，请稍后再试",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "输入的邮箱地址已被占用",
+    "message": "错误：所输入的邮箱地址已被占用",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "输入的用户名已被占用",
+    "message": "错误：所输入的用户名已被占用",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
-    "message": "输入的邮件地址无效",
+    "message": "错误：所输入的邮件地址无效",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "密码的长度必须是8至16个字符，其中至少含有一个大写字母，一个小写字母，一个数字",
+    "message": "错误：密码的长度必须是8至16个字符，其中至少含有一个大写字母，一个小写字母，一个数字",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
-    "message": "所提供的邮件地址与任何用户无关",
+    "message": "错误：所提供的邮件地址与现有任何用户无关",
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "验证结果有错误，请重新输入",
+    "message": "错误：验证结果有错误，请重新输入",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
-    "message": "验证码失效，请刷新页面",
+    "message": "错误：验证码失效，请刷新页面再试",
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "输入错误密码",
+    "message": "错误：输入密码错误",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
-    "message": "密码的长度必须是8至16个字符",
+    "message": "错误：密码的长度必须是8至16个字符",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
-    "message": "密码中至少需要一个大写字母(A-Z)",
+    "message": "错误：密码至少需要一个大写字母(A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "plusError22": {
-    "message": "密码中至少需要一个小写字母(a-z)",
+    "message": "错误：密码至少需要一个小写字母(a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "plusError23": {
-    "message": "密码中至少需要一个数字(0-9)",
+    "message": "错误：密码至少需要一个数字(0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "网络出错，请检查你的线路再试",
+    "message": "错误：网络出错，请检查你的线路再试",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "此数据不存在，或是因为你没有权限而无法查询",
+    "message": "错误：你所寻找的数据不存在，或因为你没有相应的权限查询",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
-    "message": "Error: cannot follow this record since you are already following it",
+    "message": "错误：无法连接，因为你已进入此数据的连接里",
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
-    "message": "Error: cannot unfollow this record since you are not currently following it",
+    "message": "错误：无法退出，你已经退出了此数据的连接",
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "系统错误，原因未知",
+    "message": "错误：原因未知",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "订阅推送通知时出错， 请刷新页面.",
+    "message": "错误：订阅推送通知时出错， 请刷新页面再试.",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "退订推送通知时发生错误",
+    "message": "错误：退订推送通知时发生错误",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
