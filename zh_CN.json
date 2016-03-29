@@ -244,27 +244,27 @@
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "？You are not following any records.",
+    "message": "无此数据",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "？Unfollow",
+    "message": "跳出此页",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "还未订阅？UNSUBSCRIBED",
+    "message": "还未订阅",
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "已订阅？SUBSCRIBED",
+    "message": "已订阅",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "订阅接受推送通知？ Subscribe to notifications",
+    "message": "订阅接受推送通知",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
-    "message": "从现在起，每当有新的事件产生，我们将给你发送推送通知。From time to time, we may send out notifications to our users when a new event is created.",
+    "message": "从现在起，每当有新的事件产生，我们将给你发送推送通知。",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3changePasswordButton": {
@@ -272,7 +272,7 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "输入的密码至少要有一个数字， 一个小写之母，一个大写字母，密码的长度为8至16个字符。 Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "输入的密码至少要有一个数字， 一个小写之母，一个大写字母，密码的长度为8至16个字符。",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
@@ -292,7 +292,7 @@
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "本网页无法显示推送通知，如要此项功能，你需要在设置中更改权限。You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "本网页无法显示推送通知，如要显示，你需要在设置中更改权限。",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
