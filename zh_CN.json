@@ -228,7 +228,7 @@
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
-    "message": "我已经详细阅读了本同意书。",
+    "message": "我已经详细阅读了以上提示，并且表示完全同意。",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
