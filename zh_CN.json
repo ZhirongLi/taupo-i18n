@@ -220,11 +220,11 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "上传信息都出自个人意愿，所上传的信息都将向公众开放。",
+    "message": "上传信息都是个人自愿行为，所上传的信息都将向公众全部公开。",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "公众义务提交的这些信息，系统大约在三分钟时间里产生回应。这三分钟包括接受指令，收集和输入数据的时间。除非有行政管理和预算局(OMB)的标记，代理机构不得进行组织，赞助商和个人是不需要回应。 not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to:",
+    "message": "公众从输入信息到提交报告，大约需要三分钟。这三分钟，包括了查看指令，收集和输入数据所需的时间。除非标有美国行政管理和预算局(OMB)的有效编号，任何部门不得组织，或资助搜集此类信息，任何个人也无须而为。如果你有任何有关提交报告所需时间，或者任何有关搜集信息的建议，请送:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
