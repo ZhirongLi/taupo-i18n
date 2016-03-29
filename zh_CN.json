@@ -220,7 +220,7 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "我自愿提交此信息，同意此信息为公众使用。",
+    "message": "上传信息都出自个人意愿，所上传的信息都将向公众开放。",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
