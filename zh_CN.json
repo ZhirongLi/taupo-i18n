@@ -220,11 +220,11 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "上传信息都是个人自愿行为，所上传的信息都将向公众全部公开。",
+    "message": "上传信息都是个人自愿行为，所上传的信息全部都将向公众全部公开。",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "公众从输入信息到提交报告，大约需要三分钟。这三分钟，包括了查看指令，收集和输入数据所需的时间。除非标有美国行政管理和预算局(OMB)的有效编号，任何部门不得组织，或资助搜集此类信息，任何个人也无须而为。如果你有任何有关提交报告所需时间，或者任何有关搜集信息的建议，请送:",
+    "message": "公众从输入信息开始到完成提交报告，大约需要三分钟。这三分钟里，包括了查看指令，收集和输入数据所需的时间。除非标有美国行政管理和预算局(OMB)的有效编号，任何部门不得组织，或资助搜集此类信息，任何个人也无须而为。如果你有任何有关提交报告所需时间，或者任何有关搜集信息的建议，请送:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
@@ -300,10 +300,7 @@
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "你必须在浏览器中启用cookie和JavaScript。同时，你必须有？    
-    
-    
-    You must have cookie and JavaScript enabled in your web browser. You must also have one of the two most recent versions of the following web browsers: Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer.",
+    "message": "你必须在浏览器中启用cookie和JavaScript。同时，你必须安装有下列一至两个最新版本的浏览器：Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer。",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
