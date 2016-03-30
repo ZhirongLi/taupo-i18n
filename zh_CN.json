@@ -304,7 +304,7 @@
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
-    "message": "浏览器支持？Browser Support",
+    "message": "本网站支持的浏览器",
     "context": "On the About page, section header title Browser Support."
   },
   "pageAboutHeaderFAQ": {
@@ -312,15 +312,15 @@
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
-    "message": "常见问题回答？Frequently Asked Questions",
+    "message": "常见问题回答",
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "除非另有说明，此包含基于社区内容的数据将由本网站向公众提供，并允许所有访问者进行搜索。？？ Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
+    "message": "除非另有说明，此包含基于社区交流的数据将由本网站向公众提供，并允许任何访问者进行搜索。 如同以上所说，我们的此数据来自各种途径，汇报到NLM而成:",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
-    "message": "提交？ Submissions to the",
+    "message": "提交",
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
@@ -332,15 +332,15 @@
     "context": "End portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText3a": {
-    "message": "直接提交？ For direct submissions to",
+    "message": "直接提交",
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "the reporter's email address and device ID will be retained but will not be displayed publicly.",
+    "message": "报告者的电子邮件地址和所用电子设备的系列编号本站将会保留， 但这些信息将会保密，不会向公从泄露。",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
-    "message": "NLM隐私声明？ NLM's Overall Privacy Statement",
+    "message": "NLM隐私声明",
     "context": "Text for the link to NLM's privacy policy page."
   },
   "the": {
