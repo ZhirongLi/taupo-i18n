@@ -412,7 +412,7 @@
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "请跟随我们？Follow us on...",
+    "message": "点击此处...",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
