@@ -344,7 +344,7 @@
     "context": "Text for the link to NLM's privacy policy page."
   },
   "the": {
-    "message": "本？the",
+    "message": "本",
     "context": "The word the."
   },
   "backButton": {
@@ -352,15 +352,15 @@
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
-    "message": "报告功能？report function",
+    "message": "报告功能",
     "context": "The second half ot the first bullet point on the Privacy page."
   },
   "pagePrivacyBullet2": {
-    "message": "应用程序？application",
+    "message": "应用程序",
     "context": "The word application as it applies to the ReUnite app."
   },
   "pagePrivacyBullet3": {
-    "message": "其他联合组织？other syndicated organizations",
+    "message": "其他合作组织？other syndicated organizations",
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
@@ -372,11 +372,11 @@
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "洪灾救济资源？Flood Resources",
+    "message": "洪灾救济资源",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "龙卷风灾难救济资源Tornado Resources",
+    "message": "龙卷风灾难救济资源",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
@@ -388,7 +388,7 @@
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "近亲国家登记？Next of Kin National Registry",
+    "message": "Next of Kin National Registry",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
@@ -400,15 +400,15 @@
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
-    "message": "灾难援助？Disaster Assistance",
+    "message": "灾难援助",
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
-    "message": "红十字会提供庇护所和食物Red Cross Provides Shelters and Food",
+    "message": "Red Cross Provides Shelters and Food",
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
-    "message": "From NLM's MedlinePlus",
+    "message": "从 NLM 的 MedlinePlus",
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
