@@ -364,19 +364,19 @@
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
-    "message": "寻找家人和朋友",
+    "message": "Find Family and Friends",
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "灾难救济资源？Disaster Resources",
+    "message": "Disaster Resources",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "洪灾救济资源",
+    "message": "Flood Resources",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "龙卷风灾难救济资源",
+    "message": "Tornado Resources",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
@@ -400,7 +400,7 @@
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
-    "message": "灾难援助",
+    "message": "Disaster Assistance",
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
@@ -408,7 +408,7 @@
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
-    "message": "从 NLM 的 MedlinePlus",
+    "message": "From NLM's MedlinePlus",
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
