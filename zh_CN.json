@@ -396,11 +396,11 @@
     "context": "fourth buller link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
-    "message": "From NLM's Disaster Information Management Research Center",
+    "message": "从NLM的灾害信息管理研究中心",
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
-    "message": "Disaster Assistance",
+    "message": "灾害援助",
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
