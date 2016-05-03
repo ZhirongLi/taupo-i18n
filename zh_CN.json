@@ -324,7 +324,7 @@
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "本网站没有主持，其他参与机构 请注意，数据是由用户直接提交？site are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented on this Web site. Note that data received by direct submission to",
+    "message": "本网站没有主持，其他参与机构 请注意，数据是由用户直接提交？
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
@@ -364,19 +364,19 @@
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
-    "message": "Find Family and Friends",
+    "message": "寻找家人和朋友",
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "Disaster Resources",
+    "message": "灾难救助资源",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "Flood Resources",
+    "message": "洪灾救助资源",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "Tornado Resources",
+    "message": "龙卷风救助资源",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
