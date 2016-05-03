@@ -380,19 +380,19 @@
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
-    "message": "Red Cross Safe and Well List",
+    "message": "红十字会安全和健在搜索网",
     "context": "First bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily2": {
-    "message": "Federal Emergency Management Agency National Emergency Family Registry and Locator System",
+    "message": "美国联邦紧急事务管理署国家紧急家庭登记和定位系统",
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "Next of Kin National Registry",
+    "message": "近亲国家登记处",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
-    "message": "International Committee of the Red Cross Restoring Family Links",
+    "message": "红十字会重建家庭联系国际委员会",
     "context": "fourth buller link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
