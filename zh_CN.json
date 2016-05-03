@@ -299,6 +299,14 @@
     "message": "本网站是由位于美国马里兰州贝塞斯达市的美国国家医学图书馆(NLM)提供，美国国家医学图书馆隶属于美国卫生及公共服务部(HHS)下辖的美国国立卫生研究院(NIH)，其使命在于提高通信技术的发展和协调，以提高医疗服务。本网站是为了研究作为应对灾害的工具的功能。网站基础技术是由Lost and Founder (LPF) 项目团队开发，其中一部分是针对贝塞斯达医院紧急机制合作组织(Bethesda Hospitals' Emergency Preparedness Partnership) 而开发的。自2008年起，LPF和NLM IT 的 其他部门开始得到了联邦政府提供的资金。LPF目前是NIH的院内研究项目（ Intramural Research Program），由NLM的Lister Hill National Center for Biomedical Communications（LHNCBC）资助。软件开发由LHNCBC下属的 Communication Engineering Branch(CEB)领导，网站部分内容来自于LHNCBC下属的Computer Science Branch and the Disaster Information Management Research Center，该部门也属 NLM 的 Specialized Information Services管辖。",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
+  "pageAboutTextAbout": {
+    "message": "本网站是由位于美国马里兰州贝塞斯达市的美国国家医学图书馆(NLM)提供，美国国家医学图书馆隶属于美国卫生及公共服务部(HHS)下辖的美国国立卫生研究院(NIH)，其使命在于提高通信技术的发展和协调，以提高医疗服务。本网站是为了研究作为应对灾害的工具的功能。网站基础技术是由Lost and Founder (LPF) 项目团队开发，其中一部分是针对贝塞斯达医院紧急机制合作组织(Bethesda Hospitals' Emergency Preparedness Partnership) 而开发的。自2008年起，LPF和NLM IT 的 其他部门开始得到了联邦政府提供的资金。LPF目前是NIH的院内研究项目（ Intramural Research Program），由NLM的Lister Hill National Center for Biomedical Communications（LHNCBC）资助。软件开发由LHNCBC下属的 Communication Engineering Branch(CEB)领导，网站部分内容来自于LHNCBC下属的Computer Science Branch and the Disaster Information Management Research Center，该部门也属 NLM 的 Specialized Information Services管辖。",
+    "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
+  },
+  "pageAboutTextAbout": {
+    "message": "本网站是由位于美国马里兰州贝塞斯达市的美国国家医学图书馆(NLM)提供，美国国家医学图书馆隶属于美国卫生及公共服务部(HHS)下辖的美国国立卫生研究院(NIH)，其使命在于提高通信技术的发展和协调，以提高医疗服务。本网站是为了研究作为应对灾害的工具的功能。网站基础技术是由Lost and Founder (LPF) 项目团队开发，其中一部分是针对贝塞斯达医院紧急机制合作组织(Bethesda Hospitals' Emergency Preparedness Partnership) 而开发的。自2008年起，LPF和NLM IT 的 其他部门开始得到了联邦政府提供的资金。LPF目前是NIH的院内研究项目（ Intramural Research Program），由NLM的Lister Hill National Center for Biomedical Communications（LHNCBC）资助。软件开发由LHNCBC下属的 Communication Engineering Branch(CEB)领导，网站部分内容来自于LHNCBC下属的Computer Science Branch and the Disaster Information Management Research Center，该部门也属 NLM 的 Specialized Information Services管辖。",
+    "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
+  },
   "pageAboutTextBrowser": {
     "message": "你必须在浏览器中启用cookie和JavaScript。同时，你必须安装有下列一至两个最新版本的浏览器：Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer。",
     "context": "This is the text on the About page describing web browsers support."
