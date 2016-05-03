@@ -28,11 +28,11 @@
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
-    "message": "權限",
+    "message": "許可權",
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "聯系",
+    "message": "聯繫",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
@@ -68,11 +68,11 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "錯誤：所輸入的郵箱地址已被占用",
+    "message": "錯誤：所輸入的郵箱地址已被佔用",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "錯誤：所輸入的用戶名已被占用",
+    "message": "錯誤：所輸入的用戶名已被佔用",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
@@ -80,7 +80,7 @@
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "錯誤：密碼的長度必須是8至16個字符，其中至少含有一個大寫字母，一個小寫字母，一個數字",
+    "message": "錯誤：密碼的長度必須是8至16個字元，其中至少含有一個大寫字母，一個小寫字母，一個數字",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
@@ -100,7 +100,7 @@
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
-    "message": "錯誤：密碼的長度必須是8至16個字符",
+    "message": "錯誤：密碼的長度必須是8至16個字元",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
@@ -116,15 +116,15 @@
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "網絡錯誤：請檢查你的線路再試",
+    "message": "網路錯誤：請檢查你的線路再試",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "錯誤：你所尋找的數據不存在，或因為你沒有相應的權限查詢",
+    "message": "錯誤：你所尋找的數據不存在，或因為你沒有相應的許可權查詢",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
-    "message": "錯誤：無法連接，因為你已進入此數據的連接裏",
+    "message": "錯誤：無法連接，因為你已進入此數據的連接里",
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
@@ -148,7 +148,7 @@
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
-    "message": "登錄成功，如要查詢受權限保護的事件或模塊，請刷新頁面。",
+    "message": "登錄成功，如要查詢受許可權保護的事件或模塊，請刷新頁面。",
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
@@ -212,7 +212,7 @@
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "輸入的密碼中至少要有一個數字， 一個小寫字母， 一個大寫字母，密碼的長度為8至16個字符。",
+    "message": "輸入的密碼中至少要有一個數字， 一個小寫字母， 一個大寫字母，密碼的長度為8至16個字元。",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
@@ -224,7 +224,7 @@
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "公眾從輸入信息開始到完成提交報告，大約需要三分鐘。這三分鐘裏，包括了查看指令，收集和輸入數據所需的時間。除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而為。如果你有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:",
+    "message": "公眾從輸入信息開始到完成提交報告，大約需要三分鐘。這三分鐘里，包括了查看指令，收集和輸入數據所需的時間。除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而為。如果你有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
@@ -272,7 +272,7 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "輸入的密碼至少要有一個數字， 一個小寫之母，一個大寫字母，密碼的長度為8至16個字符。",
+    "message": "輸入的密碼至少要有一個數字， 一個小寫之母，一個大寫字母，密碼的長度為8至16個字元。",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
@@ -292,11 +292,11 @@
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "本網頁無法顯示推送通知，如要顯示，你需要在設置中改變權限。",
+    "message": "本網頁無法顯示推送通知，如要顯示，你需要在設置中改變許可權。",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
-    "message": "本網站是由位於美國馬裏蘭州貝塞斯達市的美國國家醫學圖書館(NLM)提供，美國國家醫學圖書館隸屬於美國衛生及公共服務部(HHS)下轄的美國國立衛生研究院(NIH)，其使命在於提高通信技術的發展和協調，以提高醫療服務。本網站是為了研究作為應對災害的工具的功能。網站基礎技術是由Lost and Founder (LPF) 項目團隊開發，其中一部分是針對貝塞斯達醫院緊急機制合作組織(Bethesda Hospitals' Emergency Preparedness Partnership) 而開發的。自2008年起，LPF和NLM IT 的 其他部門開始得到了聯邦政府提供的資金。LPF目前是NIH的院內研究項目（ Intramural Research Program），由NLM的Lister Hill National Center for Biomedical Communications（LHNCBC）資助。軟件開發由LHNCBC下屬的 Communication Engineering Branch(CEB)領導，網站部分內容來自於LHNCBC下屬的Computer Science Branch and the Disaster Information Management Research Center，該部門也屬 NLM 的 Specialized Information Services管轄。",
+    "message": "本網站是由位於美國馬里蘭州貝塞斯達市的美國國家醫學圖書館(NLM)提供，NLM隸屬美國衛生及公共服務部(HHS)美國國立衛生研究院(NIH)，其使命在於提高通信技術的發展和協調，促進醫療服務。本網站目的在於研究應對災害的工具及功能。網站由LPF(Lost and Founder) 項目團隊開發，其中一部分是針對Bethesda醫院的BHEPP(Bethesda Hospitals' Emergency Preparedness Partnership)而開發的。自2008年起，LPF和NLM的IT部門開始獲得聯邦政府的資助。LPF目前是NIH的院內研究項目（Intramural Research Program），由NLM的LHNCBC(Lister Hill National Center for Biomedical Communications）資助。軟體開發由LHNCBC下屬的CEB(Communication Engineering Branch)領導，網站部分內容來自於LHNCBC 的CSB(Computer Science Branch)和DIMRC(Disaster Information Management Research Center)，該部門也屬NLM的SIS(Specialized Information Services)管轄。",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
@@ -316,7 +316,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "除非另有說明，此包含基於社區交流的數據將由本網站向公眾提供，並允許任何訪問者進行搜索。 如同以上所說，我們的此數據來自各種途徑，匯報到NLM而成:",
+    "message": "除非另有說明，此包含基於社區交流的數據將由本網站向公眾提供，並允許任何訪問者進行搜索。 如同以上所說，我們的此數據來自各種途徑，彙報到NLM而成:",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -324,11 +324,11 @@
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "本網站沒有主持，其他參與機構 請註意，數據是由用戶直接提交？site are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented on this Web site. Note that data received by direct submission to",
+    "message": "本網站沒有主持，其他參與機構請勿預審或核實本網站上提出的任何數據的準確性。請注意，收到的數據是由用戶直接提交",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
-    "message": "may be disseminated to other agencies, institutions, and organizations assisting the effort to locate missing people, including but not limited to the",
+    "message": "可散發給其他機關，機構和組織協助努力尋找失蹤的人，包括但不限於",
     "context": "End portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText3a": {
@@ -364,51 +364,51 @@
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
-    "message": "Find Family and Friends",
+    "message": "尋找家人和親友",
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "Disaster Resources",
+    "message": "災難救助資源",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "Flood Resources",
+    "message": "洪災救助資源",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "Tornado Resources",
+    "message": "龍捲風救助資源",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
-    "message": "Red Cross Safe and Well List",
+    "message": "紅十字會安全和健在搜索網",
     "context": "First bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily2": {
-    "message": "Federal Emergency Management Agency National Emergency Family Registry and Locator System",
+    "message": "美國聯邦緊急事務管理署國家緊急家庭登記和定位系統",
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "Next of Kin National Registry",
+    "message": "近親國家登記處",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
-    "message": "International Committee of the Red Cross Restoring Family Links",
+    "message": "紅十字會重建家庭聯繫國際委員會",
     "context": "fourth buller link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
-    "message": "From NLM's Disaster Information Management Research Center",
+    "message": "從NLM的災害信息管理研究中心",
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
-    "message": "Disaster Assistance",
+    "message": "災害援助",
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
-    "message": "Red Cross Provides Shelters and Food",
+    "message": "紅十字會提供庇護所和食物",
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
-    "message": "From NLM's MedlinePlus",
+    "message": "從NLM的MedlinePlus",
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
