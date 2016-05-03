@@ -296,7 +296,7 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "pageAboutTextAbout": {
-    "message": "本网站是由位于美国马里兰州贝塞斯达市的美国国家医学图书馆(NLM)提供，美国国家医学图书馆隶属美国卫生及公共服务部(HHS)美国国立卫生研究院(NIH)，其使命在于提高通信技术的发展和协调，促进医疗服务。网站是为了研究应对灾害的工具及功能。网站是由Lost and Founder (LPF) 项目团队开发，其中一部分是针对贝塞斯达医院ying'ji应急机制合作组织(Bethesda Hospitals' Emergency Preparedness Partnership) 而开发的。自2008年起，LPF和NLM IT 的 其他部门开始得到了联邦政府提供的资金。LPF目前是NIH的院内研究项目（ Intramural Research Program），由NLM的Lister Hill National Center for Biomedical Communications（LHNCBC）资助。软件开发由LHNCBC下属的 Communication Engineering Branch(CEB)领导，网站部分内容来自于LHNCBC下属的Computer Science Branch and the Disaster Information Management Research Center，该部门也属 NLM 的 Specialized Information Services管辖。",
+    "message": "本网站是由位于美国马里兰州贝塞斯达市的美国国家医学图书馆(NLM)提供，美国国家医学图书馆隶属美国卫生及公共服务部(HHS)美国国立卫生研究院(NIH)，其使命在于提高通信技术的发展和协调，促进医疗服务。网站是为了研究应对灾害的工具及功能。网站是由Lost and Founder (LPF) 项目团队开发，其中一部分是针对贝塞斯达医院应急合作组织(Bethesda Hospitals' Emergency Preparedness Partnership) 而开发的。自2008年起，LPF和NLM IT的其他部门开始得到了联邦政府的资助。LPF目前是NIH的院内研究项目（Intramural Research Program），由NLM的Lister Hill National Center for Biomedical Communications（LHNCBC）资助。软件开发由LHNCBC下属的 Communication Engineering Branch(CEB)领导，网站部分内容来自于LHNCBC下属的Computer Science Branch and the Disaster Information Management Research Center，该部门也属NLM的Specialized Information Services管辖。",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
