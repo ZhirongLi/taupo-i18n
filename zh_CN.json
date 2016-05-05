@@ -316,7 +316,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "除非另有说明，此包含基于社区交流的数据将由本网站向公众提供，并允许任何访问者进行搜索。 如同以上所说，我们的此数据来自各种途径，由NLM汇集而成:",
+    "message": "除非另有说明，基于社区交流的数据由本网站向公众发布，并允许任何访问者进行搜索。 如同以上所说，我们的此数据来自各种途径，由NLM汇集而成:",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
