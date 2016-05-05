@@ -144,7 +144,7 @@
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
-    "message": "登录。",
+    "message": "已经登录",
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
